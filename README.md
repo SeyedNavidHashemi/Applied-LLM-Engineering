@@ -11,7 +11,7 @@ A curated collection of mini-projects, experiments, and mini-applications built 
 - **Languages:** Python
 
 ## Philosophy
-Each sub-folder acts as a standalone mini-project . High-volume data and vector embeddings are intentionally kept out of this codebase and are hosted separately on [Hugging Face Datasets](https://huggingface.co/NavHash/datasets)).
+Each sub-folder acts as a standalone mini-project with its own README. High-volume data and vector embeddings are intentionally kept out of this codebase and are hosted separately on [Hugging Face Datasets](https://huggingface.co/NavHash/datasets)).
 
 ## Let's Connect
 Feel free to explore the code, open issues, or reach out if you're interested in collaborative AI engineering projects!
